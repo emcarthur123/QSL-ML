@@ -4,7 +4,7 @@ you look at the section below. <br/>
 
 # Running
 * Make sure you have the following packages installed.
-* * Astropy
+  * Astropy
   * Matplotlib
   * Pandas
   * Numpy
