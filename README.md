@@ -12,6 +12,3 @@ you look at the section below. <br/>
   * [PyQSOfit](https://nbviewer.org/github/legolason/PyQSOFit/blob/master/example/example.ipynb)
   * [SparclClient](https://pypi.org/project/sparclclient/)
  
-# Note on Desi:
-You will not be able to query unless you partially install DESI Targeting. So I'd <br/>
-recommend you install DESI using the setup.py method ONLY theres no need to follow the steps that follow after that. <br/>
