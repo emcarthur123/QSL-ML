@@ -1,4 +1,4 @@
-# Lens Search: Machine Learning and Spectral Fitting Pipeline (QSL-ML: Quasar as Strong Lenses using Machine Learning)
+# QSL-ML: Quasar as Strong Lenses using Machine Learning
 
 This repository provides a full pipeline to identify quasars (QSOs) that act as strong lenses using deep learning and Gaussian modeling on spectral data.
 
